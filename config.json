@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailcelete",
+        "uuid": 2311153,
+        "checksum": "l9kbqg"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
